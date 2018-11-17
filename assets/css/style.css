@@ -27,7 +27,5 @@ body {
     color: #ffffff;
     background-color: #666666;
     text-align: center;
-    border-block-end: 5px;
-    border-block-end-color: #4aaaa5;
-
+    border-top: 3px solid #4aaaa5;
 }

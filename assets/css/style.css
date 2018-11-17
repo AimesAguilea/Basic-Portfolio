@@ -27,7 +27,7 @@ body {
     color: #ffffff;
     background-color: #666666;
     text-align: center;
-    border: 5px;
-    border-color: #4aaaa5;
+    border-block-end: 5px;
+    border-block-end-color: #4aaaa5;
 
 }

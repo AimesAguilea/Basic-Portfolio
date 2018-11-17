@@ -10,7 +10,11 @@
 }
 
 #info {
-    background-color: #dddddd;
+    background-color: #ffffff;
+}
+
+body {
+    background-color: #dddddd
 }
 
 .footer {

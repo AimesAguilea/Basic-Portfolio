@@ -1,7 +1,12 @@
+#title {
+    width: 100%;
+    height: 25px;
+}
+
 #name {
-    padding: 20px 0;
+    padding: 20px;
     margin-top: 50px;
-    margin-left: 100px;
+    margin-left: 80px;
     margin-right: 500px;
     background-color: #4aaaa5;
     text-align: center;

@@ -69,6 +69,13 @@ input [type=text], select, textarea {
     resize: vertical;
 }
 
+input [type=submit] {
+    padding: 12px 15px;
+    background-color: #4aaaa5;
+    color: white;
+    cursor: pointer;
+}
+
 #fname {
     padding: 5px;
     margin-top: 12px;
@@ -83,7 +90,14 @@ input [type=text], select, textarea {
     margin-bottom: 12px;
     margin-left: 17px;
     width: 95%;
-    
+}
+
+#message {
+    padding: 5px 5px 150px 5px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 17px;
+    width: 95%;
 }
 
 .footer {

@@ -27,6 +27,14 @@
     float: left;
     padding-right: 25px;
     color: #666666;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.line {
+    background-color: #666666;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 #main {
@@ -42,6 +50,7 @@
     font-size: 22px;
     color: #4aaaa5;
     margin-left: 20px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
 #info {
@@ -70,10 +79,16 @@ input [type=text], select, textarea {
 }
 
 input [type=submit] {
-    padding: 12px 15px;
-    background-color: #4aaaa5;
-    color: white;
     cursor: pointer;
+}
+
+#submit {
+    background-color: #4aaaa5;
+    padding: 8px 15px;
+    color: white;
+    border: none;
+    margin-left: 17px;
+    margin-bottom: 15px;
 }
 
 #fname {
@@ -82,6 +97,7 @@ input [type=submit] {
     margin-bottom: 12px;
     margin-left: 17px;
     width: 95%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 #email {
@@ -90,6 +106,7 @@ input [type=submit] {
     margin-bottom: 12px;
     margin-left: 17px;
     width: 95%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 #message {
@@ -98,6 +115,13 @@ input [type=submit] {
     margin-bottom: 12px;
     margin-left: 17px;
     width: 95%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.subject {
+    margin-left: 17px;
+    color: #666666;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 .footer {

@@ -57,7 +57,22 @@
 
 body {
     background-color: #dddddd;
-    background-image: url("felt_@2X.png")
+    background-image: url("felt_@2X.png");
+}
+
+
+input [type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #dddddd;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    resize: vertical;
+}
+
+#fname {
+    padding: 10px;
+    margin-top: 12px;
 }
 
 .footer {

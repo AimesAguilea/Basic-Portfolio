@@ -32,7 +32,7 @@
 }
 
 .line {
-    background-color: #666666;
+    background-color: #dddddd;
     margin-left: 15px;
     margin-right: 15px;
 }
@@ -55,7 +55,12 @@
 
 #info {
     clear: both;
-    padding: 30px;
+    padding: 15px;
+}
+
+#para {
+    color: #666666;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 #photo {
@@ -67,6 +72,53 @@
 body {
     background-color: #dddddd;
     background-image: url("felt_@2X.png");
+}
+
+#box-set {
+    position: relative;
+    height: 800px;
+    margin-left: -20px
+}
+
+.box {
+    position: relative;
+    width: 225px;
+    height: 150px;
+    background-color: #666666;
+    border: none;
+}
+
+.box-1 {
+    float: left;
+}
+
+.box-2 {
+    float: left;
+    margin-left: -5px;
+}
+
+.box-3 {
+    clear: both;
+    float: left;
+}
+
+.box-4 {
+    float: left;
+    margin-left: -5px;
+}
+
+.box-5 {
+    clear: both;
+    float: left;
+}
+
+.btitles {
+    background-color: #4aaaa5;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 15px 15px 15px 15px;
+    margin-top: 92px;
 }
 
 

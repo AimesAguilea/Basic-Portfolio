@@ -87,6 +87,7 @@ a:hover {
 }
 
 body {
+    margin: 0;
     background-color: #dddddd;
     background-image: url("felt_@2X.png");
 }

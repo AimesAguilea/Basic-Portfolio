@@ -75,6 +75,7 @@ a:hover {
 
 .para {
     color: #777777;
+    text-indent: 30px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
@@ -82,6 +83,7 @@ a:hover {
     float: left;
     margin-right: 15px;
     margin-bottom: 15px;
+    margin-top: 20px;
     width: 250px;
     height: auto;
 }
